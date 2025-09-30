@@ -155,7 +155,6 @@ function cekStatusSPP($bulan_terakhir_bayar, $bulan_sekarang) {
         'denda' => $denda
     ];
 }
-
 $mahasiswa_spp = [
     ['nama' => 'Kiboy', 'bulan_terakhir' => 9, 'bulan_sekarang' => 9],
     ['nama' => 'Kairi', 'bulan_terakhir' => 8, 'bulan_sekarang' => 9],
